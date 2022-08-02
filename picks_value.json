@@ -1,0 +1,1050 @@
+{"pick_trade_values": [
+    {
+      "chart_value": 3000,
+      "pick": 1
+    },
+    {
+      "chart_value": 2600,
+      "pick": 2
+    },
+    {
+      "chart_value": 2200,
+      "pick": 3
+    },
+    {
+      "chart_value": 1800,
+      "pick": 4
+    },
+    {
+      "chart_value": 1700,
+      "pick": 5
+    },
+    {
+      "chart_value": 1600,
+      "pick": 6
+    },
+    {
+      "chart_value": 1500,
+      "pick": 7
+    },
+    {
+      "chart_value": 1400,
+      "pick": 8
+    },
+    {
+      "chart_value": 1350,
+      "pick": 9
+    },
+    {
+      "chart_value": 1300,
+      "pick": 10
+    },
+    {
+      "chart_value": 1250,
+      "pick": 11
+    },
+    {
+      "chart_value": 1200,
+      "pick": 12
+    },
+    {
+      "chart_value": 1150,
+      "pick": 13
+    },
+    {
+      "chart_value": 1100,
+      "pick": 14
+    },
+    {
+      "chart_value": 1050,
+      "pick": 15
+    },
+    {
+      "chart_value": 1000,
+      "pick": 16
+    },
+    {
+      "chart_value": 950,
+      "pick": 17
+    },
+    {
+      "chart_value": 900,
+      "pick": 18
+    },
+    {
+      "chart_value": 875,
+      "pick": 19
+    },
+    {
+      "chart_value": 850,
+      "pick": 20
+    },
+    {
+      "chart_value": 800,
+      "pick": 21
+    },
+    {
+      "chart_value": 780,
+      "pick": 22
+    },
+    {
+      "chart_value": 760,
+      "pick": 23
+    },
+    {
+      "chart_value": 740,
+      "pick": 24
+    },
+    {
+      "chart_value": 720,
+      "pick": 25
+    },
+    {
+      "chart_value": 700,
+      "pick": 26
+    },
+    {
+      "chart_value": 680,
+      "pick": 27
+    },
+    {
+      "chart_value": 660,
+      "pick": 28
+    },
+    {
+      "chart_value": 640,
+      "pick": 29
+    },
+    {
+      "chart_value": 620,
+      "pick": 30
+    },
+    {
+      "chart_value": 600,
+      "pick": 31
+    },
+    {
+      "chart_value": 590,
+      "pick": 32
+    },
+    {
+      "chart_value": 580,
+      "pick": 33
+    },
+    {
+      "chart_value": 560,
+      "pick": 34
+    },
+    {
+      "chart_value": 550,
+      "pick": 35
+    },
+    {
+      "chart_value": 540,
+      "pick": 36
+    },
+    {
+      "chart_value": 530,
+      "pick": 37
+    },
+    {
+      "chart_value": 520,
+      "pick": 38
+    },
+    {
+      "chart_value": 510,
+      "pick": 39
+    },
+    {
+      "chart_value": 500,
+      "pick": 40
+    },
+    {
+      "chart_value": 490,
+      "pick": 41
+    },
+    {
+      "chart_value": 480,
+      "pick": 42
+    },
+    {
+      "chart_value": 470,
+      "pick": 43
+    },
+    {
+      "chart_value": 460,
+      "pick": 44
+    },
+    {
+      "chart_value": 450,
+      "pick": 45
+    },
+    {
+      "chart_value": 440,
+      "pick": 46
+    },
+    {
+      "chart_value": 430,
+      "pick": 47
+    },
+    {
+      "chart_value": 420,
+      "pick": 48
+    },
+    {
+      "chart_value": 410,
+      "pick": 49
+    },
+    {
+      "chart_value": 400,
+      "pick": 50
+    },
+    {
+      "chart_value": 390,
+      "pick": 51
+    },
+    {
+      "chart_value": 380,
+      "pick": 52
+    },
+    {
+      "chart_value": 370,
+      "pick": 53
+    },
+    {
+      "chart_value": 360,
+      "pick": 54
+    },
+    {
+      "chart_value": 350,
+      "pick": 55
+    },
+    {
+      "chart_value": 340,
+      "pick": 56
+    },
+    {
+      "chart_value": 330,
+      "pick": 57
+    },
+    {
+      "chart_value": 320,
+      "pick": 58
+    },
+    {
+      "chart_value": 310,
+      "pick": 59
+    },
+    {
+      "chart_value": 300,
+      "pick": 60
+    },
+    {
+      "chart_value": 292,
+      "pick": 61
+    },
+    {
+      "chart_value": 284,
+      "pick": 62
+    },
+    {
+      "chart_value": 276,
+      "pick": 63
+    },
+    {
+      "chart_value": 270,
+      "pick": 64
+    },
+    {
+      "chart_value": 265,
+      "pick": 65
+    },
+    {
+      "chart_value": 260,
+      "pick": 66
+    },
+    {
+      "chart_value": 255,
+      "pick": 67
+    },
+    {
+      "chart_value": 250,
+      "pick": 68
+    },
+    {
+      "chart_value": 245,
+      "pick": 69
+    },
+    {
+      "chart_value": 240,
+      "pick": 70
+    },
+    {
+      "chart_value": 235,
+      "pick": 71
+    },
+    {
+      "chart_value": 230,
+      "pick": 72
+    },
+    {
+      "chart_value": 225,
+      "pick": 73
+    },
+    {
+      "chart_value": 220,
+      "pick": 74
+    },
+    {
+      "chart_value": 215,
+      "pick": 75
+    },
+    {
+      "chart_value": 210,
+      "pick": 76
+    },
+    {
+      "chart_value": 205,
+      "pick": 77
+    },
+    {
+      "chart_value": 200,
+      "pick": 78
+    },
+    {
+      "chart_value": 195,
+      "pick": 79
+    },
+    {
+      "chart_value": 190,
+      "pick": 80
+    },
+    {
+      "chart_value": 185,
+      "pick": 81
+    },
+    {
+      "chart_value": 180,
+      "pick": 82
+    },
+    {
+      "chart_value": 175,
+      "pick": 83
+    },
+    {
+      "chart_value": 170,
+      "pick": 84
+    },
+    {
+      "chart_value": 165,
+      "pick": 85
+    },
+    {
+      "chart_value": 160,
+      "pick": 86
+    },
+    {
+      "chart_value": 155,
+      "pick": 87
+    },
+    {
+      "chart_value": 150,
+      "pick": 88
+    },
+    {
+      "chart_value": 145,
+      "pick": 89
+    },
+    {
+      "chart_value": 140,
+      "pick": 90
+    },
+    {
+      "chart_value": 136,
+      "pick": 91
+    },
+    {
+      "chart_value": 132,
+      "pick": 92
+    },
+    {
+      "chart_value": 128,
+      "pick": 93
+    },
+    {
+      "chart_value": 124,
+      "pick": 94
+    },
+    {
+      "chart_value": 120,
+      "pick": 95
+    },
+    {
+      "chart_value": 116,
+      "pick": 96
+    },
+    {
+      "chart_value": 112,
+      "pick": 97
+    },
+    {
+      "chart_value": 108,
+      "pick": 98
+    },
+    {
+      "chart_value": 104,
+      "pick": 99
+    },
+    {
+      "chart_value": 100,
+      "pick": 100
+    },
+    {
+      "chart_value": 96,
+      "pick": 101
+    },
+    {
+      "chart_value": 92,
+      "pick": 102
+    },
+    {
+      "chart_value": 88,
+      "pick": 103
+    },
+    {
+      "chart_value": 86,
+      "pick": 104
+    },
+    {
+      "chart_value": 84,
+      "pick": 105
+    },
+    {
+      "chart_value": 82,
+      "pick": 106
+    },
+    {
+      "chart_value": 80,
+      "pick": 107
+    },
+    {
+      "chart_value": 78,
+      "pick": 108
+    },
+    {
+      "chart_value": 76,
+      "pick": 109
+    },
+    {
+      "chart_value": 74,
+      "pick": 110
+    },
+    {
+      "chart_value": 72,
+      "pick": 111
+    },
+    {
+      "chart_value": 70,
+      "pick": 112
+    },
+    {
+      "chart_value": 68,
+      "pick": 113
+    },
+    {
+      "chart_value": 66,
+      "pick": 114
+    },
+    {
+      "chart_value": 64,
+      "pick": 115
+    },
+    {
+      "chart_value": 62,
+      "pick": 116
+    },
+    {
+      "chart_value": 60,
+      "pick": 117
+    },
+    {
+      "chart_value": 58,
+      "pick": 118
+    },
+    {
+      "chart_value": 56,
+      "pick": 119
+    },
+    {
+      "chart_value": 54,
+      "pick": 120
+    },
+    {
+      "chart_value": 52.1,
+      "pick": 121
+    },
+    {
+      "chart_value": 50.2,
+      "pick": 122
+    },
+    {
+      "chart_value": 49.25,
+      "pick": 123
+    },
+    {
+      "chart_value": 48.3,
+      "pick": 124
+    },
+    {
+      "chart_value": 47.35,
+      "pick": 125
+    },
+    {
+      "chart_value": 46.4,
+      "pick": 126
+    },
+    {
+      "chart_value": 45.45,
+      "pick": 127
+    },
+    {
+      "chart_value": 44.5,
+      "pick": 128
+    },
+    {
+      "chart_value": 43.55,
+      "pick": 129
+    },
+    {
+      "chart_value": 42.6,
+      "pick": 130
+    },
+    {
+      "chart_value": 41.65,
+      "pick": 131
+    },
+    {
+      "chart_value": 40.7,
+      "pick": 132
+    },
+    {
+      "chart_value": 40.7,
+      "pick": 133
+    },
+    {
+      "chart_value": 39.75,
+      "pick": 134
+    },
+    {
+      "chart_value": 39.75,
+      "pick": 135
+    },
+    {
+      "chart_value": 38.8,
+      "pick": 136
+    },
+    {
+      "chart_value": 38.8,
+      "pick": 137
+    },
+    {
+      "chart_value": 37.85,
+      "pick": 138
+    },
+    {
+      "chart_value": 37.85,
+      "pick": 139
+    },
+    {
+      "chart_value": 36.9,
+      "pick": 140
+    },
+    {
+      "chart_value": 36.9,
+      "pick": 141
+    },
+    {
+      "chart_value": 35.95,
+      "pick": 142
+    },
+    {
+      "chart_value": 35.95,
+      "pick": 143
+    },
+    {
+      "chart_value": 35,
+      "pick": 144
+    },
+    {
+      "chart_value": 35,
+      "pick": 145
+    },
+    {
+      "chart_value": 34.05,
+      "pick": 146
+    },
+    {
+      "chart_value": 34.05,
+      "pick": 147
+    },
+    {
+      "chart_value": 33.1,
+      "pick": 148
+    },
+    {
+      "chart_value": 33.1,
+      "pick": 149
+    },
+    {
+      "chart_value": 32.15,
+      "pick": 150
+    },
+    {
+      "chart_value": 32.15,
+      "pick": 151
+    },
+    {
+      "chart_value": 32.15,
+      "pick": 152
+    },
+    {
+      "chart_value": 31.2,
+      "pick": 153
+    },
+    {
+      "chart_value": 31.2,
+      "pick": 154
+    },
+    {
+      "chart_value": 30.25,
+      "pick": 155
+    },
+    {
+      "chart_value": 30.25,
+      "pick": 156
+    },
+    {
+      "chart_value": 30.25,
+      "pick": 157
+    },
+    {
+      "chart_value": 29.3,
+      "pick": 158
+    },
+    {
+      "chart_value": 29.3,
+      "pick": 159
+    },
+    {
+      "chart_value": 28.35,
+      "pick": 160
+    },
+    {
+      "chart_value": 28.35,
+      "pick": 161
+    },
+    {
+      "chart_value": 28.35,
+      "pick": 162
+    },
+    {
+      "chart_value": 27.4,
+      "pick": 163
+    },
+    {
+      "chart_value": 27.4,
+      "pick": 164
+    },
+    {
+      "chart_value": 26.45,
+      "pick": 165
+    },
+    {
+      "chart_value": 26.45,
+      "pick": 166
+    },
+    {
+      "chart_value": 26.45,
+      "pick": 167
+    },
+    {
+      "chart_value": 25.5,
+      "pick": 168
+    },
+    {
+      "chart_value": 25.5,
+      "pick": 169
+    },
+    {
+      "chart_value": 24.55,
+      "pick": 170
+    },
+    {
+      "chart_value": 24.55,
+      "pick": 171
+    },
+    {
+      "chart_value": 24.55,
+      "pick": 172
+    },
+    {
+      "chart_value": 23.6,
+      "pick": 173
+    },
+    {
+      "chart_value": 23.6,
+      "pick": 174
+    },
+    {
+      "chart_value": 22.65,
+      "pick": 175
+    },
+    {
+      "chart_value": 22.65,
+      "pick": 176
+    },
+    {
+      "chart_value": 22.65,
+      "pick": 177
+    },
+    {
+      "chart_value": 21.7,
+      "pick": 178
+    },
+    {
+      "chart_value": 21.7,
+      "pick": 179
+    },
+    {
+      "chart_value": 20.75,
+      "pick": 180
+    },
+    {
+      "chart_value": 20.75,
+      "pick": 181
+    },
+    {
+      "chart_value": 20.75,
+      "pick": 182
+    },
+    {
+      "chart_value": 19.8,
+      "pick": 183
+    },
+    {
+      "chart_value": 19.8,
+      "pick": 184
+    },
+    {
+      "chart_value": 18.85,
+      "pick": 185
+    },
+    {
+      "chart_value": 18.85,
+      "pick": 186
+    },
+    {
+      "chart_value": 18.85,
+      "pick": 187
+    },
+    {
+      "chart_value": 17.9,
+      "pick": 188
+    },
+    {
+      "chart_value": 17.9,
+      "pick": 189
+    },
+    {
+      "chart_value": 16.95,
+      "pick": 190
+    },
+    {
+      "chart_value": 16.95,
+      "pick": 191
+    },
+    {
+      "chart_value": 16.95,
+      "pick": 192
+    },
+    {
+      "chart_value": 16,
+      "pick": 193
+    },
+    {
+      "chart_value": 16,
+      "pick": 194
+    },
+    {
+      "chart_value": 15.05,
+      "pick": 195
+    },
+    {
+      "chart_value": 15.05,
+      "pick": 196
+    },
+    {
+      "chart_value": 15.05,
+      "pick": 197
+    },
+    {
+      "chart_value": 14.1,
+      "pick": 198
+    },
+    {
+      "chart_value": 14.1,
+      "pick": 199
+    },
+    {
+      "chart_value": 13.15,
+      "pick": 200
+    },
+    {
+      "chart_value": 13.15,
+      "pick": 201
+    },
+    {
+      "chart_value": 13.15,
+      "pick": 202
+    },
+    {
+      "chart_value": 12.2,
+      "pick": 203
+    },
+    {
+      "chart_value": 12.2,
+      "pick": 204
+    },
+    {
+      "chart_value": 11.25,
+      "pick": 205
+    },
+    {
+      "chart_value": 11.25,
+      "pick": 206
+    },
+    {
+      "chart_value": 11.25,
+      "pick": 207
+    },
+    {
+      "chart_value": 10.3,
+      "pick": 208
+    },
+    {
+      "chart_value": 10.3,
+      "pick": 209
+    },
+    {
+      "chart_value": 9.35,
+      "pick": 210
+    },
+    {
+      "chart_value": 9.35,
+      "pick": 211
+    },
+    {
+      "chart_value": 9.35,
+      "pick": 212
+    },
+    {
+      "chart_value": 8.4,
+      "pick": 213
+    },
+    {
+      "chart_value": 8.4,
+      "pick": 214
+    },
+    {
+      "chart_value": 7.45,
+      "pick": 215
+    },
+    {
+      "chart_value": 7.45,
+      "pick": 216
+    },
+    {
+      "chart_value": 7.45,
+      "pick": 217
+    },
+    {
+      "chart_value": 6.5,
+      "pick": 218
+    },
+    {
+      "chart_value": 6.5,
+      "pick": 219
+    },
+    {
+      "chart_value": 5.550000000000001,
+      "pick": 220
+    },
+    {
+      "chart_value": 5.550000000000001,
+      "pick": 221
+    },
+    {
+      "chart_value": 5.550000000000001,
+      "pick": 222
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 223
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 224
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 225
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 226
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 227
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 228
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 229
+    },
+    {
+      "chart_value": 4.6,
+      "pick": 230
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 231
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 232
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 233
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 234
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 235
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 236
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 237
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 238
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 239
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 240
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 241
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 242
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 243
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 244
+    },
+    {
+      "chart_value": 4.125,
+      "pick": 245
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 246
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 247
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 248
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 249
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 250
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 251
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 252
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 253
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 254
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 255
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 256
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 257
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 258
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 259
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 260
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 261
+    },
+    {
+      "chart_value": 3.65,
+      "pick": 262
+    }
+  ]}
